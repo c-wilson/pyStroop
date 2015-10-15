@@ -1,15 +1,7 @@
 # PyStrooper
-This is a Python package for demonstrating the Stroop effect. 
+This is a Python package for demonstrating the [Stroop effect](https://en.m.wikipedia.org/wiki/Stroop_effect).
 
 This effect is that it is much slower to name the color of text when that text spells a different color.
-
-For example, you are much quicker at naming the color of this text:
-
-<span style="color:red">red</span>
-
-than you are at reading 
-
-<span style="color:orange">blue</span>
 
 ## Installation:
 If you don't yet have Python, I recommend the Anaconda Python. This software is written to be compatible with python 2
